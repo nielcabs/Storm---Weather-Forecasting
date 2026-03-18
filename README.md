@@ -1,4 +1,4 @@
-# Storm Forecasting 🌀s
+# Storm Forecasting 🌀
 Storm Forecasting is an animation engine that visualizes real-time tropical storm data of the past. It scrapes data from the [IBTRACS](https://ncics.org/ibtracs/index.php?name=browse-year-basin) website and filters the information by year and basin according to user input. It then displays an animation of tropical storms paths as they occur at the current time, accurate to every 3-hour interval.  
 
 The application is available in two versions:
